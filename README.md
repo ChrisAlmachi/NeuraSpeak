@@ -8,7 +8,7 @@ VERSION = '1.0.0'
 PACKAGE_NAME = 'NeuraSpeak' 
 AUTHOR = 'Christopher Almachi and David Carlosama' 
 AUTHOR_EMAIL = 'christopher.almachi@yachaytech.edu.ec, david.carlosama@yachaytech.edu.ec'
-URL = 'https://github.com/'
+URL = '[https://github.com/](https://github.com/ChrisAlmachi/NeuraSpeak.git)'
 
 LICENSE = 'Open-Source' #Tipo de licencia
 DESCRIPTION = 'Library for identifying, recognizing errors, learning English language vocabulary and vocabulary'
